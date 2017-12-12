@@ -4,7 +4,7 @@ import io.vertx.core.json.JsonObject;
 import io.vertx.rxjava.ext.web.RoutingContext;
 
 /**
- * @author <a href="http://escoffier.me">Clement Escoffier</a>
+ *  @author <a href="http://escoffier.me">Clement Escoffier</a>
  */
 public class Errors {
 
